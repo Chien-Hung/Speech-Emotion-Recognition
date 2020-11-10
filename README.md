@@ -1,1 +1,29 @@
 # Speech-Emotion-Recognition
+
+Pytorch implementation of "3-D Convolutional Recurrent Neural Networks With Attention Model for Speech Emotion Recognition".
+
+I follow the [original tensorflow code](https://github.com/xuanjihe/speech-emotion-recognition) and change the tensorflow parts to pytorch ones. Please reference the original github for more details.
+
+
+## Dependency:
+
+* pytorch
+* python_speech_features
+* wave
+* pickle
+* sklearn
+
+## Demo
+
+After download the `IEMOCAP` dataset:
+
+```
+python zscore.py
+python ExtractMel.py
+python model.py
+```
+
+## Reference
+
+https://github.com/xuanjihe/speech-emotion-recognition
+
