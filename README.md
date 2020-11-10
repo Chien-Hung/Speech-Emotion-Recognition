@@ -22,12 +22,14 @@ python zscore.py
 python ExtractMel.py
 python model.py
 ```
+---
 
 or you can download the processed file, [IEMOCAP.pkl](https://drive.google.com/file/d/18bYKQEjrWB8opvV-eEIuncAwOCLvTG8v/view?usp=sharing)
 
 ```
 python model.py
 ```
+---
 
 The best valid_UA for this code is **0.6619**.
 
