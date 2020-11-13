@@ -31,7 +31,7 @@ python model.py
 ```
 ---
 
-The best valid_UA for this code is **0.6619**.
+The best valid_UA of this code is about **0.6619**.
 
 ## Reference
 
